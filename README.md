@@ -12,7 +12,7 @@ Learned MNIST manifold with a condition of label (from 0 to 9)
 ![alt text](https://github.com/lyeoni/pytorch-mnist-CVAE/blob/master/samples/sample_.png)
 
 ## Reference
-1. Learning Structured Output Representation using Deep Conditional Generative Models: 
+1. Learning Structured Output Representation using Deep Conditional Generative Models (paper): 
 https://papers.nips.cc/paper/5775-learning-structured-output-representation-using-deep-conditional-generative-modelsd
 2. jojonki/AutoEncoders (github): 
 https://github.com/jojonki/AutoEncoders/blob/master/cvae.ipynb
